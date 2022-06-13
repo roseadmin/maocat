@@ -1,5 +1,5 @@
 {
-"spider":"你的0608.jar地址",
+"spider":"https://roseadmin.github.io/maocat/",
 
 "sites":[
 
