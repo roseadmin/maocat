@@ -14,7 +14,7 @@
 "spider":"https://roseadmin.github.io/maocat/baddychen0608/baddychen0608.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=https://roseadmin.github.io/maocat/baddychen0608/tv/live.txt"
+"https://roseadmin.github.io/maocat/baddychen0608/tv/live.txt"
 ]}]}],
 
 
